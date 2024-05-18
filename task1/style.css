@@ -1,0 +1,13 @@
+body {
+    text-align:center;
+     font-family: Arial, sans-serif;
+     background-color:#FFE6E6;
+ }
+ 
+ canvas {
+     margin-top:100px;
+     border: 2px solid #333;
+     border-radius: 10px;
+     /* background-color: #7469B6; */
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
